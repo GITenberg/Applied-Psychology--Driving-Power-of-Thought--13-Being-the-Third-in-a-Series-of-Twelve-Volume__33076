@@ -1,0 +1,29 @@
+_repo: Applied-Psychology--Driving-Power-of-Thought--13-Being-the-Third-in-a-Series-of-Twelve-Volume__33076
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hilton, Warren
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '5222'
+    url: http://www.gutenberg.org/2009/agents/5222
+description: ''
+gutenberg_issued: '2010-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology, Applied'
+- !lcsh 'Employees -- Recruiting'
+- !lcc 'BF'
+title: "Applied Psychology: Driving Power of Thought\r\nBeing the Third in a Series\
+  \ of Twelve Volumes on the Applications of Psychology to the Problems of Personal\
+  \ and Business Efficiency"
+url: http://www.gutenberg.org/ebooks/33076
