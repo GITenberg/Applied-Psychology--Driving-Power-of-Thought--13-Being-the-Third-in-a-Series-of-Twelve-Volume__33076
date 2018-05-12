@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5222'
     url: http://www.gutenberg.org/2009/agents/5222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33076#Applied-Psychology--Driving-Power-of-Thought--13-Being-the-Third-in-a-Series-of-Twelve-Volume_
 gutenberg_issued: '2010-07-04'
 gutenberg_type: Text
 identifiers:
